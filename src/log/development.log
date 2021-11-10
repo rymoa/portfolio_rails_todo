@@ -1,0 +1,10 @@
+  [1m[35m (27.9ms)[0m  [1m[35mCREATE DATABASE `app_development` DEFAULT CHARACTER SET `utf8mb4`[0m
+  [1m[35m (11.8ms)[0m  [1m[35mCREATE DATABASE `app_test` DEFAULT CHARACTER SET `utf8mb4`[0m
+Started GET "/" for 172.18.0.1 at 2021-11-10 05:30:28 +0000
+Cannot render console from 172.18.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /usr/local/bundle/gems/railties-6.1.4.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /usr/local/bundle/gems/railties-6.1.4.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 14.0ms | Allocations: 593)
+Completed 200 OK in 43ms (Views: 23.4ms | ActiveRecord: 0.0ms | Allocations: 4730)
+
+
